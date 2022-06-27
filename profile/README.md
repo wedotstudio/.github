@@ -1,15 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<img width="150" height="150" src="https://avatars.githubusercontent.com/u/42472854?s=200&v=4">
 
-**Here are some ideas to get you started:**
+# WE. Studio
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+**WE. Studio** (pronounced as **We Dot Studio**) is a virtual software studio providing software solutions across Linux, Windows and (Sometimes) MacOS.
+
+> WE. Studio is neither a registered entity, nor a business organisation. WE. Studio is an owner for a set of projects.
+
+## Archived
 
 Here is the list for archived projects from WE. Studio:
 
